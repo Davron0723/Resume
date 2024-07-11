@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+.con1 {
+    display: flex;
+}
+table, th, td {
+  border: 1px solid black;
+  width: 700px;
+}
